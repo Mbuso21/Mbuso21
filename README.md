@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mbuso21
 - 👀 I’m interested in Solving public problems
-- 🌱 I’m currently learning Java, Python and Django
+- 🌱 I’m currently learning Web Development
 - 💞️ I’m looking to collaborate on open source projects
 - 📫 How to reach me on linkedin, please search for Mbuso Mehlomakulu
 
